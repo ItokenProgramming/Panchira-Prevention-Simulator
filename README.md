@@ -1,6 +1,6 @@
 # Purpose
 
-By using this software, you can simulate weather the lower person (hereinafter called "observer") on stairs can look at the underwear worn by the upper person (hereinafter called "observed person") wearing skirt (this action is hereinafter called "panchira") and prevent panchira in advance.
+	By using this software, you can simulate weather the lower person (hereinafter called "observer") on stairs can look at the underwear worn by the upper person (hereinafter called "observed person") wearing skirt (this action is hereinafter called "panchira") and prevent panchira in advance.
 
 # Theory
 
@@ -18,12 +18,14 @@ $$ \arctan{ \frac{nh+l-H}{nw}} > \arctan{ \frac{l - Y_s}{X_s}} $$
 
 the observer can look at the underwear. In this situation, $\theta$ can be defined as "minimum visible elevation angle" 
 
-
-<img src="Images/kinbou.png" width="500">
+![Fig1](Images/kinbou.png)
 Figure 1: Schematic drawing of the vicinity of the underwear
-
-<img src="Images/zentai.png" width="500">
+![Fig2](Images/zentai.png)
 Figure 2: Schematic diagram of the whole stairs when panchira is impossible
+<img src="Images/kinbou.png" width="500">
+<img src="Images/kinbou.png" width="400">
+<img src="Images/kinbou.png" width="300">
+<img src="Images/kinbou.png" width="200">
 
 
 # Conclusion
