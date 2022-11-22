@@ -18,8 +18,6 @@ $$ \arctan{ \frac{nh+l-H}{nw}} > \arctan{ \frac{l - Y_s}{X_s}} $$
 
 the observer can look underwear. In this situation, $\theta$ can be defined as "minimum visible elevation angle" 
 
-# Usage
-
 # Conclusion
 
 Please be aware that if you look underwear in public space based on the knowledge obtained from this simulator, you may be subject to punishment under local laws.
