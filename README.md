@@ -19,8 +19,13 @@ $$ \arctan{ \frac{nh+l-H}{nw}} > \arctan{ \frac{l - Y_s}{X_s}} $$
 the observer can look at the underwear. In this situation, $\theta$ can be defined as "minimum visible elevation angle" 
 
 ![Fig1](Images/kinbou.png)
+Figure 1: Schematic drawing of the vicinity of the underwear
 ![Fig2](Images/zentai.png)
-<img src="Images/kinbou.png" width="35">
+Figure 2: Schematic diagram of the whole stairs when panchira is impossible
+<img src="Images/kinbou.png" width="500">
+<img src="Images/kinbou.png" width="400">
+<img src="Images/kinbou.png" width="300">
+<img src="Images/kinbou.png" width="200">
 
 
 # Conclusion
