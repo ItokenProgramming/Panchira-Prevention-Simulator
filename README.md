@@ -1,11 +1,10 @@
 # Purpose
 
-This program enables you to change the format of Excel graphs. This program is written in VBA (Visual Basic for Applications). 
 By using this software, you can simulate weather the lower person (hereinafter called "observer") on stairs can look at the underwear worn by the upper person (hereinafter called "observed person") wearing skirt (this action is hereinafter called "panchira") and prevent panchira in advance.
 
 # Theory
 
-As shown in Figure \ref{fig:kinbou}, the horizontal distance between the bottom of the skirt and the leg is $X_s$, the vertical distance between the ground and the bottom of the skirt is $Y_s$, and the vertical distance between the ground and the bottom of the underwear is $l$. Take $\theta$ as shown in Figure \ref{fig:kinbou}. Also, as shown in Figure \ref{fig:zentai}, $h$ is the length of the stair riser, $w$ is the length of the tread, $H$ is the height of the observer's eyes. The number of stages is $n$ and the elevation angle of the observer's line of sight is $\phi$. However, both the observer and the observed person are standing upright at the center of the tread. At this time, $\theta$ can be expressed as 
+As shown in Figure 1, the horizontal distance between the bottom of the skirt and the leg is $X_s$, the vertical distance between the ground and the bottom of the skirt is $Y_s$, and the vertical distance between the ground and the bottom of the underwear is $l$. Take $\theta$ as shown in Figure 1. Also, as shown in Figure 2, $h$ is the length of the stair riser, $w$ is the length of the tread, $H$ is the height of the observer's eyes. The number of stages is $n$ and the elevation angle of the observer's line of sight is $\phi$. However, both the observer and the observed person are standing upright at the center of the tread. At this time, $\theta$ can be expressed as 
 
 $$ \theta = \arctan{ \frac{l - Y_s}{X_s}} $$
 
@@ -18,6 +17,8 @@ In the situation where $\phi > \theta$ holds, namely
 $$ \arctan{ \frac{nh+l-H}{nw}} > \arctan{ \frac{l - Y_s}{X_s}} $$
 
 the observer can look underwear. In this situation, $\theta$ can be defined as "minimum visible elevation angle" 
+
+# Usage
 
 # Conclusion
 
