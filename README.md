@@ -1,5 +1,7 @@
 # Purpose
 
+![画像の説明](images/kinbou.png)
+
 By using this software, you can simulate weather the lower person (hereinafter called "observer") on stairs can look at the underwear worn by the upper person (hereinafter called "observed person") wearing skirt (this action is hereinafter called "panchira") and prevent panchira in advance.
 
 # Theory
@@ -16,10 +18,10 @@ In the situation where $\phi > \theta$ holds, namely
 
 $$ \arctan{ \frac{nh+l-H}{nw}} > \arctan{ \frac{l - Y_s}{X_s}} $$
 
-the observer can look underwear. In this situation, $\theta$ can be defined as "minimum visible elevation angle" 
+the observer can look at the underwear. In this situation, $\theta$ can be defined as "minimum visible elevation angle" 
 
 # Conclusion
 
-Please be aware that if you look underwear in public space based on the knowledge obtained from this simulator, you may be subject to punishment under local laws.
+Please be aware that if you look at the underwear in public space based on the knowledge obtained from this simulator, you may be subject to punishment under local laws.
 
 It would be an unexpected pleasure for me if this simulator can be used to prevent panchira.
