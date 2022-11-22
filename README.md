@@ -20,6 +20,7 @@ the observer can look at the underwear. In this situation, $\theta$ can be defin
 
 ![Fig1](Images/kinbou.png)
 ![Fig2](Images/zentai.png)
+<img src="Images/kinbou.png" width="35">
 
 
 # Conclusion
