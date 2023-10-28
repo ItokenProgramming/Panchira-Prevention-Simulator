@@ -1,6 +1,6 @@
 # Installation
 
-Download and run [Panchira-Prevention-Simulator.xlsm](https://github.com/ItokenProgramming/Panchira-Prevention-Simulator/blob/main/Panchira-Prevention-Simulator.xlsm).
+Download and run [Panchira-Prevention-Simulator.xlsm](https://github.com/ItokenProgramming/Panchira-Prevention-Simulator/raw/main/Panchira-Prevention-Simulator.xlsm).
 
 # Purpose
 
