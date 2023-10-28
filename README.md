@@ -1,3 +1,7 @@
+# Installation
+
+Download and run [Panchira-Prevention-Simulator.xlsm](https://github.com/ItokenProgramming/Panchira-Prevention-Simulator/blob/main/Panchira-Prevention-Simulator.xlsm).
+
 # Purpose
 
 By using this software, you can simulate weather the lower person (hereinafter called "observer") on stairs can look at the underwear worn by the upper person (hereinafter called "observed person") wearing skirt (this action is hereinafter called "panchira") and prevent panchira in advance.
