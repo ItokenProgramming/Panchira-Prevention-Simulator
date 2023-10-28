@@ -1,6 +1,6 @@
 # Installation
 
-Download and run [Panchira-Prevention-Simulator.xlsm](https://github.com/ItokenProgramming/Panchira-Prevention-Simulator/raw/main/Panchira-Prevention-Simulator.xlsm) for English version or [Panchira-Prevention-Simulator(Japanese-ver).xlsm](https://github.com/ItokenProgramming/Panchira-Prevention-Simulator/raw/main/Panchira-Prevention-Simulator(Japanese-ver).xlsm) for Japanese version.
+Download and run [Panchira-Prevention-Simulator.xlsm](https://github.com/ItokenProgramming/Panchira-Prevention-Simulator/raw/main/Panchira-Prevention-Simulator.xlsm) for English version or [Panchira-Prevention-Simulator-Japanese-ver.xlsm](https://github.com/ItokenProgramming/Panchira-Prevention-Simulator/raw/main/Panchira-Prevention-Simulator-Japanese-ver.xlsm) for Japanese version.
 
 # Purpose
 
