@@ -32,4 +32,5 @@ Figure 2: Schematic diagram of the whole stairs when panchira is impossible
 # Conclusion
 
 　Please be aware that if you look at the underwear in public space based on the knowledge obtained from this simulator, you may be subject to punishment under local laws.
+
 　It would be an unexpected pleasure for me if this simulator can be used to prevent panchira.
